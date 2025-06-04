@@ -1,0 +1,2 @@
+C:/Users/Jarvis/it/flutter/projects/done/flappy_fire_game/android/app/.cxx/RelWithDebInfo/55513u6a/x86/CMakeFiles/edit_cache.dir
+C:/Users/Jarvis/it/flutter/projects/done/flappy_fire_game/android/app/.cxx/RelWithDebInfo/55513u6a/x86/CMakeFiles/rebuild_cache.dir
